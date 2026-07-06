@@ -12,7 +12,7 @@ The project combines Python for data generation and preprocessing, SQL for query
 
 > Add a screenshot of the dashboard below.
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
