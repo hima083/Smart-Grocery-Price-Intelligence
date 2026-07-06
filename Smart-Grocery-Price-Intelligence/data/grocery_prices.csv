@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Platform,City,Date,Price,MRP,Discount,Availability
+1,Onion,Vegetables,Blinkit,Delhi,2025-03-22,176.7,186,5,In Stock
+2,Tea,Beverages,BigBasket,Bangalore,2025-06-24,189.0,270,30,In Stock
+3,Grapes,Fruits,Swiggy Instamart,Hyderabad,2025-06-01,117.04,133,12,Out of Stock
+4,Potato,Vegetables,Zepto,Mumbai,2025-02-14,115.44,156,26,In Stock
+5,Coffee,Beverages,BigBasket,Hyderabad,2025-03-29,194.88,232,16,In Stock
+6,Namkeen,Snacks,Amazon Fresh,Bangalore,2025-06-09,101.46,114,11,In Stock
+7,Wheat Flour,Grains,BigBasket,Hyderabad,2025-04-15,120.96,168,28,In Stock
+8,Banana,Fruits,Zepto,Hyderabad,2025-02-13,262.26,279,6,In Stock
+9,Orange,Fruits,Swiggy Instamart,Mumbai,2025-06-15,227.24,247,8,In Stock
+10,Energy Drink,Beverages,Blinkit,Bangalore,2025-04-02,79.0,79,0,Out of Stock
+11,Biscuits,Snacks,BigBasket,Bangalore,2025-02-14,249.9,294,15,Out of Stock
+12,Onion,Vegetables,Zepto,Chennai,2025-04-26,118.3,182,35,In Stock
+13,Cabbage,Vegetables,Blinkit,Chennai,2025-06-14,222.6,265,16,Out of Stock
+14,Chips,Snacks,Zepto,Delhi,2025-02-26,21.34,22,3,Out of Stock
+15,Tea,Beverages,Zepto,Delhi,2025-04-17,52.44,76,31,Out of Stock
+16,Salt,Grains,BigBasket,Chennai,2025-04-03,56.44,83,32,In Stock
+17,Mango,Fruits,Blinkit,Mumbai,2025-06-19,118.56,156,24,Out of Stock
+18,Tea,Beverages,Zepto,Mumbai,2025-06-09,110.26,149,26,In Stock
+19,Apple,Fruits,Swiggy Instamart,Chennai,2025-05-31,264.0,300,12,Out of Stock
+20,Sugar,Grains,Zepto,Bangalore,2025-04-26,112.53,121,7,In Stock
+21,Milk,Dairy,Zepto,Mumbai,2025-03-09,171.5,245,30,In Stock
+22,Soft Drink,Beverages,Zepto,Delhi,2025-05-15,122.46,157,22,Out of Stock
+23,Onion,Vegetables,Zepto,Delhi,2025-01-24,167.14,274,39,In Stock
+24,Potato,Vegetables,Zepto,Hyderabad,2025-06-22,170.19,279,39,In Stock
+25,Banana,Fruits,Amazon Fresh,Hyderabad,2025-02-22,58.56,61,4,In Stock
+26,Chips,Snacks,Amazon Fresh,Chennai,2025-01-28,180.6,258,30,In Stock
+27,Curd,Dairy,Zepto,Delhi,2025-03-21,162.6,271,40,In Stock
+28,Curd,Dairy,Amazon Fresh,Bangalore,2025-03-26,156.42,237,34,In Stock
+29,Banana,Fruits,Zepto,Hyderabad,2025-06-10,106.11,131,19,In Stock
+30,Tea,Beverages,Zepto,Hyderabad,2025-03-13,97.68,111,12,In Stock
+31,Soft Drink,Beverages,Swiggy Instamart,Mumbai,2025-06-27,80.52,122,34,Out of Stock
+32,Cheese,Dairy,BigBasket,Delhi,2025-05-17,127.98,158,19,Out of Stock
+33,Coffee,Beverages,Blinkit,Mumbai,2025-04-30,95.04,108,12,In Stock
+34,Curd,Dairy,Amazon Fresh,Mumbai,2025-02-24,34.56,36,4,In Stock
+35,Milk,Dairy,Zepto,Bangalore,2025-01-07,84.24,104,19,Out of Stock
+36,Coffee,Beverages,Zepto,Chennai,2025-06-16,150.57,239,37,Out of Stock
+37,Wheat Flour,Grains,BigBasket,Bangalore,2025-01-11,55.51,91,39,Out of Stock
+38,Banana,Fruits,Blinkit,Bangalore,2025-03-16,186.14,227,18,Out of Stock
+39,Butter,Dairy,Swiggy Instamart,Bangalore,2025-04-28,91.2,114,20,Out of Stock
+40,Onion,Vegetables,Amazon Fresh,Bangalore,2025-03-09,29.25,39,25,Out of Stock
+41,Paneer,Dairy,Blinkit,Mumbai,2025-03-03,249.24,268,7,Out of Stock
+42,Namkeen,Snacks,Zepto,Bangalore,2025-03-02,204.48,288,29,Out of Stock
+43,Apple,Fruits,Blinkit,Chennai,2025-06-19,14.6,20,27,Out of Stock
+44,Grapes,Fruits,Blinkit,Hyderabad,2025-04-17,99.19,109,9,Out of Stock
+45,Banana,Fruits,Amazon Fresh,Hyderabad,2025-05-26,285.18,291,2,In Stock
+46,Chocolate,Snacks,Amazon Fresh,Delhi,2025-03-14,56.28,84,33,In Stock
+47,Cookies,Snacks,Zepto,Mumbai,2025-05-20,158.6,260,39,Out of Stock
+48,Dal,Grains,Amazon Fresh,Delhi,2025-04-02,242.08,272,11,Out of Stock
+49,Sugar,Grains,Amazon Fresh,Delhi,2025-02-28,128.25,171,25,In Stock
+50,Tomato,Vegetables,Amazon Fresh,Hyderabad,2025-05-24,19.78,23,14,In Stock
+51,Apple,Fruits,Swiggy Instamart,Hyderabad,2025-01-07,15.87,23,31,Out of Stock
+52,Wheat Flour,Grains,Swiggy Instamart,Mumbai,2025-04-30,66.74,94,29,In Stock
+53,Tea,Beverages,Zepto,Delhi,2025-05-05,205.44,214,4,In Stock
+54,Rice,Grains,Zepto,Hyderabad,2025-03-24,241.19,271,11,Out of Stock
+55,Chocolate,Snacks,BigBasket,Bangalore,2025-03-11,142.72,223,36,Out of Stock
+56,Cheese,Dairy,Swiggy Instamart,Mumbai,2025-06-05,134.1,149,10,In Stock
+57,Grapes,Fruits,Blinkit,Bangalore,2025-04-08,204.6,220,7,In Stock
+58,Chocolate,Snacks,BigBasket,Delhi,2025-05-03,179.4,260,31,In Stock
+59,Coffee,Beverages,Amazon Fresh,Delhi,2025-04-04,89.3,95,6,Out of Stock
+60,Namkeen,Snacks,Zepto,Chennai,2025-05-31,180.2,212,15,In Stock
+61,Dal,Grains,Amazon Fresh,Delhi,2025-06-27,112.5,125,10,In Stock
+62,Coffee,Beverages,Amazon Fresh,Delhi,2025-05-12,85.6,107,20,In Stock
+63,Carrot,Vegetables,BigBasket,Hyderabad,2025-03-06,137.35,205,33,In Stock
+64,Wheat Flour,Grains,Swiggy Instamart,Bangalore,2025-01-17,24.48,36,32,In Stock
+65,Grapes,Fruits,BigBasket,Bangalore,2025-04-02,152.29,157,3,In Stock
+66,Rice,Grains,Blinkit,Chennai,2025-06-03,78.4,98,20,Out of Stock
+67,Rice,Grains,Zepto,Bangalore,2025-06-01,202.4,220,8,In Stock
+68,Rice,Grains,Swiggy Instamart,Bangalore,2025-03-12,121.77,123,1,Out of Stock
+69,Salt,Grains,Amazon Fresh,Chennai,2025-01-13,81.25,125,35,Out of Stock
+70,Wheat Flour,Grains,Blinkit,Bangalore,2025-05-02,156.4,230,32,In Stock
+71,Wheat Flour,Grains,Swiggy Instamart,Hyderabad,2025-05-12,215.65,227,5,Out of Stock
+72,Chocolate,Snacks,Zepto,Mumbai,2025-04-08,18.91,31,39,Out of Stock
+73,Salt,Grains,Swiggy Instamart,Delhi,2025-05-26,208.98,243,14,Out of Stock
+74,Chips,Snacks,Zepto,Chennai,2025-03-19,60.2,70,14,In Stock
+75,Tomato,Vegetables,BigBasket,Bangalore,2025-06-01,203.98,217,6,Out of Stock
+76,Cheese,Dairy,Zepto,Bangalore,2025-02-11,93.84,138,32,Out of Stock
+77,Namkeen,Snacks,BigBasket,Delhi,2025-02-12,166.86,206,19,In Stock
+78,Juice,Beverages,Zepto,Bangalore,2025-06-17,192.0,256,25,Out of Stock
+79,Banana,Fruits,BigBasket,Delhi,2025-04-10,40.04,44,9,Out of Stock
+80,Milk,Dairy,Blinkit,Mumbai,2025-03-04,96.72,156,38,In Stock
+81,Dal,Grains,Zepto,Bangalore,2025-03-06,221.85,261,15,Out of Stock
+82,Dal,Grains,Amazon Fresh,Chennai,2025-02-21,103.18,154,33,In Stock
+83,Sugar,Grains,Zepto,Chennai,2025-06-21,148.41,153,3,In Stock
+84,Juice,Beverages,Swiggy Instamart,Delhi,2025-06-07,80.08,88,9,Out of Stock
+85,Orange,Fruits,Swiggy Instamart,Delhi,2025-06-17,178.2,270,34,Out of Stock
+86,Tomato,Vegetables,Blinkit,Mumbai,2025-01-02,82.68,106,22,In Stock
+87,Potato,Vegetables,Amazon Fresh,Bangalore,2025-01-25,49.92,52,4,In Stock
+88,Tomato,Vegetables,Amazon Fresh,Bangalore,2025-02-27,79.54,82,3,In Stock
+89,Milk,Dairy,BigBasket,Hyderabad,2025-03-16,127.28,148,14,Out of Stock
+90,Rice,Grains,BigBasket,Mumbai,2025-01-09,258.99,267,3,In Stock
+91,Cookies,Snacks,BigBasket,Bangalore,2025-04-05,246.53,277,11,In Stock
+92,Tea,Beverages,Swiggy Instamart,Hyderabad,2025-04-15,105.82,143,26,Out of Stock
+93,Potato,Vegetables,Swiggy Instamart,Delhi,2025-02-22,77.47,127,39,Out of Stock
+94,Rice,Grains,Zepto,Bangalore,2025-06-12,64.99,67,3,In Stock
+95,Namkeen,Snacks,Zepto,Bangalore,2025-02-22,187.11,297,37,Out of Stock
+96,Grapes,Fruits,Zepto,Mumbai,2025-05-24,58.4,80,27,In Stock
+97,Carrot,Vegetables,BigBasket,Bangalore,2025-04-25,223.56,243,8,In Stock
+98,Chocolate,Snacks,Swiggy Instamart,Chennai,2025-06-07,56.32,64,12,Out of Stock
+99,Namkeen,Snacks,Swiggy Instamart,Delhi,2025-01-24,26.1,30,13,Out of Stock
+100,Mango,Fruits,BigBasket,Bangalore,2025-02-11,127.28,148,14,In Stock
+101,Carrot,Vegetables,Amazon Fresh,Mumbai,2025-02-10,15.6,20,22,In Stock
+102,Apple,Fruits,Blinkit,Delhi,2025-06-12,139.69,229,39,In Stock
+103,Biscuits,Snacks,Swiggy Instamart,Mumbai,2025-05-07,38.69,53,27,Out of Stock
+104,Paneer,Dairy,Amazon Fresh,Chennai,2025-02-26,91.02,111,18,Out of Stock
+105,Banana,Fruits,BigBasket,Bangalore,2025-02-03,14.95,23,35,In Stock
+106,Wheat Flour,Grains,Blinkit,Mumbai,2025-04-10,24.36,29,16,In Stock
+107,Apple,Fruits,Blinkit,Bangalore,2025-06-29,18.85,29,35,Out of Stock
+108,Banana,Fruits,Swiggy Instamart,Chennai,2025-05-24,127.2,159,20,Out of Stock
+109,Energy Drink,Beverages,BigBasket,Hyderabad,2025-04-21,126.48,186,32,Out of Stock
+110,Cheese,Dairy,Blinkit,Bangalore,2025-04-06,205.44,214,4,In Stock
+111,Wheat Flour,Grains,Blinkit,Delhi,2025-03-16,26.91,39,31,Out of Stock
+112,Dal,Grains,Amazon Fresh,Bangalore,2025-01-15,109.56,132,17,Out of Stock
+113,Soft Drink,Beverages,Amazon Fresh,Mumbai,2025-06-29,234.03,269,13,Out of Stock
+114,Energy Drink,Beverages,Swiggy Instamart,Bangalore,2025-01-12,70.56,112,37,In Stock
+115,Onion,Vegetables,Blinkit,Hyderabad,2025-03-26,43.2,54,20,Out of Stock
+116,Namkeen,Snacks,Zepto,Delhi,2025-05-08,24.3,30,19,Out of Stock
+117,Paneer,Dairy,BigBasket,Bangalore,2025-02-12,26.46,27,2,In Stock
+118,Coffee,Beverages,BigBasket,Delhi,2025-04-21,205.2,216,5,In Stock
+119,Onion,Vegetables,BigBasket,Bangalore,2025-02-22,42.78,46,7,In Stock
+120,Cabbage,Vegetables,BigBasket,Hyderabad,2025-04-12,100.62,129,22,In Stock
+121,Juice,Beverages,Amazon Fresh,Bangalore,2025-02-24,21.06,26,19,Out of Stock
+122,Biscuits,Snacks,Zepto,Delhi,2025-05-25,74.48,98,24,Out of Stock
+123,Orange,Fruits,Swiggy Instamart,Delhi,2025-05-06,250.98,282,11,Out of Stock
+124,Tea,Beverages,Swiggy Instamart,Chennai,2025-03-19,235.85,265,11,In Stock
+125,Rice,Grains,Swiggy Instamart,Mumbai,2025-02-15,269.78,287,6,Out of Stock
+126,Chips,Snacks,Blinkit,Bangalore,2025-02-24,29.52,41,28,In Stock
+127,Carrot,Vegetables,Blinkit,Hyderabad,2025-01-28,241.86,278,13,Out of Stock
+128,Onion,Vegetables,Blinkit,Delhi,2025-05-09,102.06,126,19,In Stock
+129,Milk,Dairy,Swiggy Instamart,Hyderabad,2025-01-28,165.49,247,33,In Stock
+130,Grapes,Fruits,Swiggy Instamart,Hyderabad,2025-03-06,62.79,91,31,Out of Stock
+131,Paneer,Dairy,Zepto,Delhi,2025-01-17,208.24,274,24,In Stock
+132,Biscuits,Snacks,BigBasket,Mumbai,2025-03-10,159.8,188,15,In Stock
+133,Juice,Beverages,Blinkit,Chennai,2025-04-30,17.5,25,30,Out of Stock
+134,Mango,Fruits,Blinkit,Chennai,2025-05-13,214.37,221,3,In Stock
+135,Paneer,Dairy,Zepto,Hyderabad,2025-01-15,130.9,187,30,Out of Stock
+136,Dal,Grains,Zepto,Delhi,2025-01-07,159.57,197,19,In Stock
+137,Dal,Grains,Swiggy Instamart,Mumbai,2025-01-16,150.28,221,32,Out of Stock
+138,Mango,Fruits,Zepto,Chennai,2025-04-12,58.5,78,25,In Stock
+139,Curd,Dairy,Swiggy Instamart,Hyderabad,2025-02-05,143.42,202,29,In Stock
+140,Coffee,Beverages,Swiggy Instamart,Delhi,2025-05-31,113.28,118,4,In Stock
+141,Dal,Grains,Swiggy Instamart,Hyderabad,2025-03-20,176.4,196,10,In Stock
+142,Energy Drink,Beverages,Amazon Fresh,Bangalore,2025-06-23,147.84,192,23,Out of Stock
+143,Soft Drink,Beverages,Amazon Fresh,Delhi,2025-06-06,69.58,98,29,Out of Stock
+144,Energy Drink,Beverages,Blinkit,Bangalore,2025-01-27,89.0,100,11,In Stock
+145,Wheat Flour,Grains,Zepto,Chennai,2025-06-21,86.33,97,11,In Stock
+146,Wheat Flour,Grains,Swiggy Instamart,Delhi,2025-04-20,141.05,155,9,Out of Stock
+147,Namkeen,Snacks,BigBasket,Bangalore,2025-05-27,256.62,273,6,Out of Stock
+148,Energy Drink,Beverages,Blinkit,Chennai,2025-03-27,19.4,20,3,In Stock
+149,Butter,Dairy,Swiggy Instamart,Hyderabad,2025-06-10,266.63,293,9,Out of Stock
+150,Orange,Fruits,Blinkit,Bangalore,2025-02-12,169.92,236,28,In Stock
+151,Carrot,Vegetables,BigBasket,Bangalore,2025-04-10,169.6,212,20,Out of Stock
+152,Grapes,Fruits,Amazon Fresh,Mumbai,2025-02-01,78.88,116,32,In Stock
+153,Carrot,Vegetables,Amazon Fresh,Hyderabad,2025-01-11,201.75,269,25,In Stock
+154,Curd,Dairy,Blinkit,Mumbai,2025-02-05,141.18,181,22,Out of Stock
+155,Namkeen,Snacks,Swiggy Instamart,Chennai,2025-02-04,84.87,123,31,Out of Stock
+156,Chips,Snacks,Swiggy Instamart,Hyderabad,2025-01-23,80.08,104,23,In Stock
+157,Namkeen,Snacks,Zepto,Hyderabad,2025-03-20,71.34,87,18,Out of Stock
+158,Dal,Grains,Blinkit,Delhi,2025-03-17,239.7,255,6,In Stock
+159,Biscuits,Snacks,Swiggy Instamart,Mumbai,2025-05-31,206.5,295,30,Out of Stock
+160,Curd,Dairy,Blinkit,Bangalore,2025-06-18,173.34,214,19,In Stock
+161,Tomato,Vegetables,Amazon Fresh,Chennai,2025-04-30,225.18,278,19,Out of Stock
+162,Cheese,Dairy,Swiggy Instamart,Bangalore,2025-05-24,77.43,89,13,Out of Stock
+163,Salt,Grains,Amazon Fresh,Mumbai,2025-06-24,254.7,283,10,In Stock
+164,Juice,Beverages,Zepto,Delhi,2025-01-05,75.64,124,39,Out of Stock
+165,Cookies,Snacks,BigBasket,Bangalore,2025-03-07,182.36,194,6,In Stock
+166,Soft Drink,Beverages,Blinkit,Hyderabad,2025-01-04,246.05,259,5,In Stock
+167,Wheat Flour,Grains,Zepto,Hyderabad,2025-06-21,113.76,158,28,Out of Stock
+168,Chocolate,Snacks,Zepto,Hyderabad,2025-02-11,75.46,77,2,In Stock
+169,Chocolate,Snacks,BigBasket,Bangalore,2025-01-30,42.78,46,7,In Stock
+170,Chocolate,Snacks,Swiggy Instamart,Hyderabad,2025-03-12,106.5,142,25,In Stock
+171,Banana,Fruits,Swiggy Instamart,Delhi,2025-03-29,97.6,160,39,In Stock
+172,Tea,Beverages,Amazon Fresh,Bangalore,2025-01-13,160.68,206,22,Out of Stock
+173,Rice,Grains,Blinkit,Delhi,2025-01-18,170.3,262,35,Out of Stock
+174,Apple,Fruits,Blinkit,Delhi,2025-05-24,292.0,292,0,In Stock
+175,Apple,Fruits,Zepto,Chennai,2025-04-23,195.52,208,6,Out of Stock
+176,Wheat Flour,Grains,Blinkit,Bangalore,2025-02-11,97.92,136,28,Out of Stock
+177,Tea,Beverages,Blinkit,Bangalore,2025-04-24,192.4,296,35,Out of Stock
+178,Apple,Fruits,Zepto,Mumbai,2025-03-26,48.51,77,37,In Stock
+179,Chocolate,Snacks,Zepto,Bangalore,2025-01-14,242.0,275,12,In Stock
+180,Chips,Snacks,Amazon Fresh,Mumbai,2025-03-28,202.74,218,7,In Stock
+181,Dal,Grains,Blinkit,Delhi,2025-06-11,134.19,213,37,Out of Stock
+182,Namkeen,Snacks,Swiggy Instamart,Bangalore,2025-01-25,162.35,191,15,Out of Stock
+183,Carrot,Vegetables,Swiggy Instamart,Mumbai,2025-03-18,94.0,100,6,In Stock
+184,Orange,Fruits,Blinkit,Mumbai,2025-01-30,51.52,56,8,Out of Stock
+185,Curd,Dairy,Zepto,Delhi,2025-03-15,184.24,188,2,In Stock
+186,Biscuits,Snacks,Swiggy Instamart,Hyderabad,2025-03-28,237.5,250,5,Out of Stock
+187,Tomato,Vegetables,Blinkit,Chennai,2025-04-06,213.3,270,21,Out of Stock
+188,Grapes,Fruits,Blinkit,Mumbai,2025-06-20,166.84,172,3,Out of Stock
+189,Rice,Grains,Blinkit,Mumbai,2025-05-06,143.52,156,8,Out of Stock
+190,Coffee,Beverages,BigBasket,Hyderabad,2025-02-28,133.12,208,36,Out of Stock
+191,Wheat Flour,Grains,Amazon Fresh,Mumbai,2025-05-26,25.48,28,9,Out of Stock
+192,Sugar,Grains,BigBasket,Chennai,2025-01-10,199.8,222,10,Out of Stock
+193,Tomato,Vegetables,Blinkit,Chennai,2025-02-05,25.48,26,2,Out of Stock
+194,Carrot,Vegetables,Blinkit,Hyderabad,2025-04-15,65.32,92,29,Out of Stock
+195,Mango,Fruits,Blinkit,Mumbai,2025-02-01,28.9,34,15,Out of Stock
+196,Cheese,Dairy,Zepto,Chennai,2025-03-04,201.28,272,26,In Stock
+197,Salt,Grains,BigBasket,Delhi,2025-04-15,28.06,46,39,Out of Stock
+198,Chips,Snacks,Amazon Fresh,Chennai,2025-02-14,167.14,274,39,Out of Stock
+199,Juice,Beverages,Zepto,Bangalore,2025-04-22,123.83,203,39,Out of Stock
+200,Milk,Dairy,BigBasket,Chennai,2025-01-14,197.4,235,16,In Stock
+201,Cheese,Dairy,Swiggy Instamart,Bangalore,2025-01-27,100.64,136,26,In Stock
+202,Biscuits,Snacks,Zepto,Bangalore,2025-05-29,233.24,238,2,In Stock
+203,Biscuits,Snacks,BigBasket,Delhi,2025-06-16,220.19,227,3,In Stock
+204,Orange,Fruits,Amazon Fresh,Mumbai,2025-05-25,157.5,225,30,In Stock
+205,Cheese,Dairy,Amazon Fresh,Bangalore,2025-04-20,97.76,104,6,Out of Stock
+206,Wheat Flour,Grains,Swiggy Instamart,Delhi,2025-05-24,209.1,246,15,Out of Stock
+207,Wheat Flour,Grains,Swiggy Instamart,Bangalore,2025-01-17,57.85,89,35,In Stock
+208,Sugar,Grains,Amazon Fresh,Chennai,2025-05-06,39.2,40,2,In Stock
+209,Rice,Grains,Zepto,Delhi,2025-04-11,63.86,103,38,Out of Stock
+210,Curd,Dairy,Swiggy Instamart,Mumbai,2025-03-06,50.02,61,18,Out of Stock
+211,Salt,Grains,Swiggy Instamart,Chennai,2025-03-13,156.0,240,35,Out of Stock
+212,Cookies,Snacks,Zepto,Hyderabad,2025-06-03,73.81,121,39,Out of Stock
+213,Biscuits,Snacks,Swiggy Instamart,Chennai,2025-02-07,117.66,159,26,Out of Stock
+214,Orange,Fruits,Blinkit,Mumbai,2025-04-17,245.18,299,18,In Stock
+215,Butter,Dairy,Swiggy Instamart,Chennai,2025-01-31,85.36,88,3,In Stock
+216,Cheese,Dairy,Zepto,Chennai,2025-03-13,43.0,43,0,Out of Stock
+217,Juice,Beverages,Amazon Fresh,Delhi,2025-01-13,154.44,198,22,In Stock
+218,Energy Drink,Beverages,Zepto,Mumbai,2025-03-22,202.73,209,3,In Stock
+219,Banana,Fruits,Swiggy Instamart,Chennai,2025-03-04,194.35,299,35,In Stock
+220,Potato,Vegetables,Swiggy Instamart,Chennai,2025-06-18,264.0,264,0,In Stock
+221,Mango,Fruits,Amazon Fresh,Delhi,2025-06-25,210.21,231,9,Out of Stock
+222,Onion,Vegetables,Amazon Fresh,Mumbai,2025-02-19,69.55,107,35,Out of Stock
+223,Energy Drink,Beverages,Zepto,Delhi,2025-01-31,123.97,161,23,In Stock
+224,Curd,Dairy,Amazon Fresh,Mumbai,2025-05-17,179.0,179,0,In Stock
+225,Biscuits,Snacks,Swiggy Instamart,Bangalore,2025-04-25,185.22,294,37,In Stock
+226,Rice,Grains,Zepto,Mumbai,2025-04-28,99.4,142,30,Out of Stock
+227,Sugar,Grains,Swiggy Instamart,Delhi,2025-02-25,132.72,168,21,Out of Stock
+228,Cabbage,Vegetables,Amazon Fresh,Hyderabad,2025-01-31,130.2,155,16,In Stock
+229,Tea,Beverages,Blinkit,Bangalore,2025-01-19,236.88,282,16,In Stock
+230,Cabbage,Vegetables,Swiggy Instamart,Chennai,2025-05-26,123.69,133,7,In Stock
+231,Curd,Dairy,Amazon Fresh,Mumbai,2025-02-08,89.6,140,36,In Stock
+232,Tomato,Vegetables,Blinkit,Mumbai,2025-02-16,49.14,78,37,Out of Stock
+233,Dal,Grains,Swiggy Instamart,Delhi,2025-01-06,76.63,79,3,In Stock
+234,Chips,Snacks,Blinkit,Hyderabad,2025-02-23,38.5,55,30,In Stock
+235,Butter,Dairy,BigBasket,Delhi,2025-03-06,190.08,192,1,In Stock
+236,Grapes,Fruits,Zepto,Mumbai,2025-04-09,127.82,166,23,Out of Stock
+237,Milk,Dairy,Amazon Fresh,Mumbai,2025-05-08,42.33,51,17,In Stock
+238,Biscuits,Snacks,Swiggy Instamart,Chennai,2025-04-24,56.96,64,11,In Stock
+239,Rice,Grains,Amazon Fresh,Mumbai,2025-03-02,100.32,152,34,Out of Stock
+240,Apple,Fruits,BigBasket,Hyderabad,2025-02-24,184.28,271,32,Out of Stock
+241,Milk,Dairy,Zepto,Chennai,2025-01-11,117.81,153,23,Out of Stock
+242,Carrot,Vegetables,BigBasket,Chennai,2025-04-13,86.45,95,9,Out of Stock
+243,Banana,Fruits,Swiggy Instamart,Chennai,2025-02-03,170.28,172,1,In Stock
+244,Onion,Vegetables,Amazon Fresh,Mumbai,2025-02-07,75.69,87,13,Out of Stock
+245,Grapes,Fruits,BigBasket,Chennai,2025-06-26,176.25,235,25,In Stock
+246,Soft Drink,Beverages,Zepto,Chennai,2025-04-14,96.0,100,4,In Stock
+247,Curd,Dairy,BigBasket,Chennai,2025-03-21,279.18,282,1,In Stock
+248,Tea,Beverages,BigBasket,Bangalore,2025-01-27,188.6,230,18,In Stock
+249,Carrot,Vegetables,Amazon Fresh,Bangalore,2025-03-08,24.75,33,25,Out of Stock
+250,Chocolate,Snacks,Zepto,Delhi,2025-03-01,190.07,229,17,Out of Stock
+251,Chocolate,Snacks,Amazon Fresh,Bangalore,2025-02-10,141.05,155,9,In Stock
+252,Biscuits,Snacks,BigBasket,Mumbai,2025-01-28,98.28,156,37,In Stock
+253,Energy Drink,Beverages,Amazon Fresh,Mumbai,2025-03-28,27.3,30,9,In Stock
+254,Rice,Grains,Zepto,Mumbai,2025-02-08,34.02,54,37,Out of Stock
+255,Dal,Grains,BigBasket,Hyderabad,2025-01-18,49.8,60,17,Out of Stock
+256,Orange,Fruits,Blinkit,Chennai,2025-02-27,200.08,244,18,In Stock
+257,Salt,Grains,BigBasket,Hyderabad,2025-04-09,46.9,67,30,In Stock
+258,Paneer,Dairy,Blinkit,Mumbai,2025-05-19,207.48,266,22,In Stock
+259,Banana,Fruits,Blinkit,Delhi,2025-04-20,68.08,74,8,Out of Stock
+260,Rice,Grains,Amazon Fresh,Bangalore,2025-01-11,86.31,137,37,Out of Stock
+261,Tomato,Vegetables,Amazon Fresh,Delhi,2025-04-20,191.18,242,21,Out of Stock
+262,Namkeen,Snacks,Zepto,Delhi,2025-01-09,55.3,79,30,Out of Stock
+263,Apple,Fruits,Amazon Fresh,Chennai,2025-05-01,117.18,126,7,In Stock
+264,Butter,Dairy,Blinkit,Mumbai,2025-04-22,30.24,48,37,In Stock
+265,Dal,Grains,BigBasket,Hyderabad,2025-02-24,25.6,40,36,In Stock
+266,Paneer,Dairy,Blinkit,Bangalore,2025-03-09,38.86,58,33,Out of Stock
+267,Curd,Dairy,Swiggy Instamart,Mumbai,2025-03-01,224.4,255,12,Out of Stock
+268,Biscuits,Snacks,Zepto,Hyderabad,2025-04-14,31.16,41,24,In Stock
+269,Juice,Beverages,Blinkit,Hyderabad,2025-03-26,256.32,288,11,In Stock
+270,Sugar,Grains,Amazon Fresh,Hyderabad,2025-05-10,200.22,213,6,Out of Stock
+271,Butter,Dairy,Swiggy Instamart,Delhi,2025-04-22,169.48,223,24,Out of Stock
+272,Juice,Beverages,Zepto,Mumbai,2025-05-15,192.01,211,9,In Stock
+273,Carrot,Vegetables,BigBasket,Bangalore,2025-02-21,87.12,88,1,In Stock
+274,Cookies,Snacks,BigBasket,Mumbai,2025-01-14,17.01,27,37,In Stock
+275,Carrot,Vegetables,Amazon Fresh,Mumbai,2025-03-08,210.0,210,0,Out of Stock
+276,Cabbage,Vegetables,Amazon Fresh,Mumbai,2025-01-12,145.29,167,13,Out of Stock
+277,Potato,Vegetables,Amazon Fresh,Mumbai,2025-01-01,69.92,76,8,In Stock
+278,Soft Drink,Beverages,Swiggy Instamart,Hyderabad,2025-03-12,131.37,151,13,Out of Stock
+279,Namkeen,Snacks,Blinkit,Delhi,2025-02-14,100.62,117,14,In Stock
+280,Tea,Beverages,Blinkit,Delhi,2025-01-07,54.81,87,37,Out of Stock
+281,Namkeen,Snacks,BigBasket,Delhi,2025-05-15,70.56,112,37,Out of Stock
+282,Orange,Fruits,Swiggy Instamart,Delhi,2025-05-28,61.64,67,8,Out of Stock
+283,Butter,Dairy,Zepto,Hyderabad,2025-04-08,131.13,141,7,In Stock
+284,Biscuits,Snacks,Zepto,Hyderabad,2025-04-11,164.71,181,9,In Stock
+285,Energy Drink,Beverages,Swiggy Instamart,Bangalore,2025-01-09,170.4,213,20,In Stock
+286,Onion,Vegetables,Amazon Fresh,Chennai,2025-04-30,79.17,91,13,In Stock
+287,Juice,Beverages,Zepto,Hyderabad,2025-02-24,152.1,195,22,In Stock
+288,Namkeen,Snacks,Blinkit,Chennai,2025-02-08,121.25,125,3,Out of Stock
+289,Salt,Grains,Blinkit,Hyderabad,2025-05-31,108.8,136,20,In Stock
+290,Butter,Dairy,Zepto,Mumbai,2025-04-08,90.78,102,11,In Stock
+291,Soft Drink,Beverages,BigBasket,Bangalore,2025-06-24,60.84,78,22,Out of Stock
+292,Namkeen,Snacks,BigBasket,Chennai,2025-05-25,166.85,235,29,In Stock
+293,Mango,Fruits,Swiggy Instamart,Delhi,2025-01-25,59.29,77,23,In Stock
+294,Cookies,Snacks,Zepto,Bangalore,2025-05-12,152.65,215,29,Out of Stock
+295,Cabbage,Vegetables,Zepto,Delhi,2025-05-31,194.0,194,0,In Stock
+296,Cabbage,Vegetables,Amazon Fresh,Hyderabad,2025-06-04,118.44,188,37,In Stock
+297,Paneer,Dairy,BigBasket,Bangalore,2025-02-02,62.7,66,5,Out of Stock
+298,Cheese,Dairy,Zepto,Chennai,2025-02-10,139.69,229,39,In Stock
+299,Grapes,Fruits,Amazon Fresh,Hyderabad,2025-05-22,208.24,274,24,Out of Stock
+300,Orange,Fruits,Amazon Fresh,Hyderabad,2025-05-15,44.85,69,35,Out of Stock
+301,Rice,Grains,Blinkit,Chennai,2025-06-12,145.7,235,38,Out of Stock
+302,Biscuits,Snacks,BigBasket,Chennai,2025-05-04,181.42,193,6,Out of Stock
+303,Cabbage,Vegetables,Swiggy Instamart,Hyderabad,2025-03-01,143.62,167,14,Out of Stock
+304,Orange,Fruits,Amazon Fresh,Delhi,2025-05-21,89.28,93,4,Out of Stock
+305,Orange,Fruits,Zepto,Hyderabad,2025-05-30,137.75,145,5,Out of Stock
+306,Potato,Vegetables,BigBasket,Chennai,2025-04-26,32.2,35,8,In Stock
+307,Milk,Dairy,Blinkit,Bangalore,2025-02-07,104.52,134,22,Out of Stock
+308,Salt,Grains,Swiggy Instamart,Hyderabad,2025-05-03,73.5,98,25,Out of Stock
+309,Cookies,Snacks,BigBasket,Bangalore,2025-03-17,226.8,270,16,Out of Stock
+310,Coffee,Beverages,BigBasket,Chennai,2025-01-27,59.16,68,13,In Stock
+311,Banana,Fruits,Zepto,Bangalore,2025-06-16,162.06,222,27,Out of Stock
+312,Cabbage,Vegetables,Zepto,Bangalore,2025-06-17,173.19,251,31,In Stock
+313,Banana,Fruits,Amazon Fresh,Mumbai,2025-01-03,197.62,241,18,Out of Stock
+314,Tea,Beverages,Zepto,Hyderabad,2025-06-28,136.85,161,15,In Stock
+315,Cabbage,Vegetables,Swiggy Instamart,Mumbai,2025-01-11,87.32,118,26,Out of Stock
+316,Soft Drink,Beverages,Swiggy Instamart,Mumbai,2025-05-02,24.79,37,33,In Stock
+317,Wheat Flour,Grains,BigBasket,Delhi,2025-03-13,52.65,81,35,Out of Stock
+318,Banana,Fruits,Blinkit,Chennai,2025-06-05,45.03,57,21,Out of Stock
+319,Carrot,Vegetables,BigBasket,Mumbai,2025-02-13,201.0,268,25,In Stock
+320,Mango,Fruits,Zepto,Bangalore,2025-06-22,29.4,49,40,In Stock
+321,Biscuits,Snacks,Swiggy Instamart,Mumbai,2025-06-25,123.84,144,14,In Stock
+322,Butter,Dairy,Swiggy Instamart,Mumbai,2025-03-21,198.36,228,13,Out of Stock
+323,Cheese,Dairy,Amazon Fresh,Chennai,2025-05-02,79.18,107,26,Out of Stock
+324,Apple,Fruits,BigBasket,Hyderabad,2025-01-11,216.58,221,2,In Stock
+325,Banana,Fruits,BigBasket,Chennai,2025-01-08,220.8,276,20,In Stock
+326,Sugar,Grains,Swiggy Instamart,Delhi,2025-02-09,188.36,277,32,Out of Stock
+327,Soft Drink,Beverages,Swiggy Instamart,Delhi,2025-05-26,41.28,43,4,In Stock
+328,Grapes,Fruits,Swiggy Instamart,Mumbai,2025-01-24,87.0,100,13,In Stock
+329,Tea,Beverages,Zepto,Delhi,2025-05-13,177.08,233,24,Out of Stock
+330,Sugar,Grains,Swiggy Instamart,Chennai,2025-05-02,28.12,38,26,In Stock
+331,Tomato,Vegetables,Swiggy Instamart,Mumbai,2025-01-01,24.82,34,27,In Stock
+332,Rice,Grains,Zepto,Delhi,2025-05-17,55.18,62,11,In Stock
+333,Wheat Flour,Grains,BigBasket,Chennai,2025-06-04,156.24,168,7,Out of Stock
+334,Namkeen,Snacks,Zepto,Chennai,2025-06-02,148.72,169,12,Out of Stock
+335,Biscuits,Snacks,Blinkit,Delhi,2025-01-14,67.62,69,2,In Stock
+336,Grapes,Fruits,Blinkit,Chennai,2025-05-05,146.4,244,40,In Stock
+337,Orange,Fruits,BigBasket,Bangalore,2025-02-17,117.0,150,22,In Stock
+338,Apple,Fruits,Zepto,Delhi,2025-02-11,258.99,291,11,Out of Stock
+339,Cookies,Snacks,Amazon Fresh,Chennai,2025-02-21,102.4,160,36,In Stock
+340,Sugar,Grains,Zepto,Mumbai,2025-04-28,102.93,141,27,In Stock
+341,Salt,Grains,Swiggy Instamart,Delhi,2025-04-14,152.22,177,14,Out of Stock
+342,Cabbage,Vegetables,Swiggy Instamart,Mumbai,2025-03-05,278.4,290,4,Out of Stock
+343,Chips,Snacks,Swiggy Instamart,Chennai,2025-01-11,127.6,145,12,Out of Stock
+344,Curd,Dairy,BigBasket,Hyderabad,2025-03-27,160.16,176,9,Out of Stock
+345,Sugar,Grains,Swiggy Instamart,Chennai,2025-01-13,76.88,124,38,In Stock
+346,Potato,Vegetables,Zepto,Delhi,2025-04-25,167.44,184,9,Out of Stock
+347,Salt,Grains,Zepto,Chennai,2025-05-12,175.13,211,17,In Stock
+348,Coffee,Beverages,BigBasket,Mumbai,2025-02-14,210.87,213,1,In Stock
+349,Apple,Fruits,Blinkit,Mumbai,2025-05-15,33.88,44,23,In Stock
+350,Butter,Dairy,Blinkit,Bangalore,2025-03-29,90.95,107,15,In Stock
+351,Rice,Grains,Amazon Fresh,Bangalore,2025-01-23,87.36,104,16,Out of Stock
+352,Onion,Vegetables,Zepto,Mumbai,2025-06-15,126.72,144,12,Out of Stock
+353,Grapes,Fruits,BigBasket,Chennai,2025-03-03,185.25,195,5,In Stock
+354,Cheese,Dairy,BigBasket,Chennai,2025-02-25,154.56,184,16,Out of Stock
+355,Onion,Vegetables,Blinkit,Bangalore,2025-01-11,30.38,31,2,In Stock
+356,Salt,Grains,Blinkit,Chennai,2025-03-13,184.8,231,20,Out of Stock
+357,Biscuits,Snacks,Swiggy Instamart,Mumbai,2025-01-13,179.4,260,31,Out of Stock
+358,Sugar,Grains,Zepto,Mumbai,2025-04-23,76.88,124,38,Out of Stock
+359,Cabbage,Vegetables,Amazon Fresh,Bangalore,2025-06-13,52.0,65,20,Out of Stock
+360,Mango,Fruits,Blinkit,Hyderabad,2025-05-21,162.87,267,39,In Stock
+361,Cabbage,Vegetables,Swiggy Instamart,Delhi,2025-01-05,118.5,150,21,In Stock
+362,Curd,Dairy,Amazon Fresh,Delhi,2025-03-09,83.6,110,24,Out of Stock
+363,Tea,Beverages,BigBasket,Hyderabad,2025-02-17,98.28,108,9,Out of Stock
+364,Chips,Snacks,Swiggy Instamart,Mumbai,2025-03-01,242.0,275,12,In Stock
+365,Butter,Dairy,Blinkit,Bangalore,2025-04-10,211.65,255,17,In Stock
+366,Curd,Dairy,Zepto,Chennai,2025-01-24,211.65,255,17,Out of Stock
+367,Wheat Flour,Grains,Blinkit,Bangalore,2025-04-23,72.21,83,13,In Stock
+368,Orange,Fruits,Blinkit,Delhi,2025-04-17,176.0,200,12,In Stock
+369,Dal,Grains,Blinkit,Delhi,2025-01-03,31.08,37,16,In Stock
+370,Apple,Fruits,Blinkit,Chennai,2025-06-29,193.03,199,3,In Stock
+371,Butter,Dairy,Zepto,Bangalore,2025-01-15,171.75,229,25,Out of Stock
+372,Cookies,Snacks,Zepto,Chennai,2025-04-10,242.5,250,3,In Stock
+373,Potato,Vegetables,Zepto,Bangalore,2025-03-03,242.97,273,11,In Stock
+374,Coffee,Beverages,Blinkit,Bangalore,2025-06-13,207.32,284,27,In Stock
+375,Potato,Vegetables,Zepto,Chennai,2025-05-24,69.0,92,25,Out of Stock
+376,Coffee,Beverages,Blinkit,Hyderabad,2025-03-04,73.08,87,16,Out of Stock
+377,Cookies,Snacks,Amazon Fresh,Mumbai,2025-05-21,141.96,156,9,In Stock
+378,Cabbage,Vegetables,Swiggy Instamart,Chennai,2025-03-29,185.64,273,32,Out of Stock
+379,Grapes,Fruits,Amazon Fresh,Bangalore,2025-02-06,278.4,290,4,Out of Stock
+380,Rice,Grains,BigBasket,Bangalore,2025-04-28,97.0,100,3,In Stock
+381,Wheat Flour,Grains,Amazon Fresh,Bangalore,2025-03-25,210.0,210,0,In Stock
+382,Grapes,Fruits,Zepto,Bangalore,2025-05-09,53.76,56,4,In Stock
+383,Cabbage,Vegetables,Zepto,Chennai,2025-01-04,271.0,271,0,In Stock
+384,Cheese,Dairy,Zepto,Hyderabad,2025-04-01,142.56,198,28,In Stock
+385,Namkeen,Snacks,Amazon Fresh,Chennai,2025-04-06,39.15,45,13,In Stock
+386,Carrot,Vegetables,BigBasket,Chennai,2025-06-19,26.35,31,15,In Stock
+387,Rice,Grains,Blinkit,Delhi,2025-05-06,95.0,100,5,In Stock
+388,Namkeen,Snacks,Blinkit,Chennai,2025-01-26,80.51,97,17,Out of Stock
+389,Sugar,Grains,Blinkit,Chennai,2025-05-06,46.92,69,32,In Stock
+390,Milk,Dairy,BigBasket,Bangalore,2025-05-10,121.72,179,32,Out of Stock
+391,Carrot,Vegetables,Amazon Fresh,Bangalore,2025-03-30,85.4,122,30,In Stock
+392,Rice,Grains,Zepto,Chennai,2025-06-14,226.98,291,22,In Stock
+393,Potato,Vegetables,Blinkit,Delhi,2025-06-08,208.67,271,23,Out of Stock
+394,Salt,Grains,Amazon Fresh,Chennai,2025-04-13,77.38,106,27,Out of Stock
+395,Coffee,Beverages,BigBasket,Delhi,2025-04-17,66.36,79,16,In Stock
+396,Tomato,Vegetables,Swiggy Instamart,Bangalore,2025-01-30,57.51,71,19,In Stock
+397,Chips,Snacks,Zepto,Hyderabad,2025-04-03,265.0,265,0,In Stock
+398,Tea,Beverages,Swiggy Instamart,Bangalore,2025-01-10,138.6,140,1,In Stock
+399,Salt,Grains,Zepto,Delhi,2025-02-12,253.8,282,10,In Stock
+400,Milk,Dairy,BigBasket,Chennai,2025-01-24,21.76,32,32,In Stock
+401,Apple,Fruits,Swiggy Instamart,Mumbai,2025-05-13,169.58,278,39,Out of Stock
+402,Chocolate,Snacks,Swiggy Instamart,Bangalore,2025-03-29,141.0,188,25,Out of Stock
+403,Salt,Grains,Blinkit,Mumbai,2025-04-23,60.72,69,12,In Stock
+404,Sugar,Grains,Amazon Fresh,Delhi,2025-04-30,156.64,178,12,In Stock
+405,Chocolate,Snacks,Swiggy Instamart,Delhi,2025-05-21,132.48,207,36,In Stock
+406,Energy Drink,Beverages,Zepto,Chennai,2025-02-01,29.76,31,4,Out of Stock
+407,Sugar,Grains,Swiggy Instamart,Delhi,2025-04-27,15.96,21,24,Out of Stock
+408,Carrot,Vegetables,Blinkit,Bangalore,2025-01-05,55.2,80,31,In Stock
+409,Cabbage,Vegetables,Zepto,Delhi,2025-01-05,17.52,24,27,In Stock
+410,Chocolate,Snacks,Blinkit,Hyderabad,2025-05-23,132.86,146,9,In Stock
+411,Orange,Fruits,BigBasket,Hyderabad,2025-01-15,226.8,252,10,In Stock
+412,Juice,Beverages,Zepto,Hyderabad,2025-03-10,224.25,299,25,Out of Stock
+413,Chips,Snacks,Blinkit,Bangalore,2025-03-16,154.8,215,28,In Stock
+414,Carrot,Vegetables,Swiggy Instamart,Delhi,2025-02-10,221.0,221,0,In Stock
+415,Grapes,Fruits,Swiggy Instamart,Chennai,2025-04-06,107.0,107,0,In Stock
+416,Potato,Vegetables,Zepto,Bangalore,2025-04-04,60.9,70,13,Out of Stock
+417,Apple,Fruits,BigBasket,Hyderabad,2025-02-24,40.32,56,28,Out of Stock
+418,Grapes,Fruits,Blinkit,Hyderabad,2025-01-10,83.7,135,38,In Stock
+419,Banana,Fruits,BigBasket,Bangalore,2025-04-03,120.15,135,11,In Stock
+420,Grapes,Fruits,Swiggy Instamart,Bangalore,2025-04-01,212.94,273,22,Out of Stock
+421,Wheat Flour,Grains,BigBasket,Bangalore,2025-06-13,58.32,72,19,Out of Stock
+422,Tea,Beverages,Amazon Fresh,Delhi,2025-05-21,119.34,153,22,Out of Stock
+423,Butter,Dairy,Swiggy Instamart,Chennai,2025-03-04,26.6,35,24,Out of Stock
+424,Milk,Dairy,Zepto,Hyderabad,2025-01-25,157.7,190,17,Out of Stock
+425,Banana,Fruits,Zepto,Bangalore,2025-02-12,127.28,148,14,Out of Stock
+426,Namkeen,Snacks,Swiggy Instamart,Delhi,2025-01-06,16.5,22,25,Out of Stock
+427,Chips,Snacks,BigBasket,Mumbai,2025-04-24,18.75,25,25,Out of Stock
+428,Curd,Dairy,Amazon Fresh,Hyderabad,2025-03-22,164.5,175,6,In Stock
+429,Milk,Dairy,Amazon Fresh,Delhi,2025-03-26,130.95,135,3,Out of Stock
+430,Juice,Beverages,BigBasket,Delhi,2025-03-21,83.79,133,37,In Stock
+431,Energy Drink,Beverages,Swiggy Instamart,Mumbai,2025-05-07,150.4,235,36,Out of Stock
+432,Energy Drink,Beverages,Amazon Fresh,Bangalore,2025-04-26,58.24,91,36,In Stock
+433,Orange,Fruits,Swiggy Instamart,Hyderabad,2025-06-25,217.3,265,18,In Stock
+434,Onion,Vegetables,Swiggy Instamart,Hyderabad,2025-01-09,164.92,217,24,Out of Stock
+435,Curd,Dairy,Blinkit,Mumbai,2025-05-31,76.8,120,36,In Stock
+436,Wheat Flour,Grains,Swiggy Instamart,Chennai,2025-02-09,186.56,212,12,Out of Stock
+437,Sugar,Grains,Blinkit,Chennai,2025-01-24,126.4,158,20,In Stock
+438,Sugar,Grains,Swiggy Instamart,Mumbai,2025-06-08,215.86,251,14,Out of Stock
+439,Cabbage,Vegetables,Swiggy Instamart,Mumbai,2025-04-03,110.08,128,14,Out of Stock
+440,Coffee,Beverages,BigBasket,Delhi,2025-06-10,101.25,135,25,In Stock
+441,Banana,Fruits,BigBasket,Bangalore,2025-01-17,41.76,48,13,Out of Stock
+442,Coffee,Beverages,Blinkit,Chennai,2025-01-19,159.06,241,34,In Stock
+443,Chips,Snacks,Amazon Fresh,Mumbai,2025-01-06,50.7,78,35,Out of Stock
+444,Carrot,Vegetables,Amazon Fresh,Delhi,2025-05-22,25.52,29,12,In Stock
+445,Cheese,Dairy,Swiggy Instamart,Chennai,2025-02-18,111.87,113,1,Out of Stock
+446,Tea,Beverages,Blinkit,Mumbai,2025-04-01,227.64,271,16,In Stock
+447,Potato,Vegetables,Zepto,Chennai,2025-04-04,146.2,172,15,Out of Stock
+448,Butter,Dairy,BigBasket,Mumbai,2025-02-20,24.7,38,35,Out of Stock
+449,Tea,Beverages,Amazon Fresh,Delhi,2025-06-04,203.98,217,6,Out of Stock
+450,Mango,Fruits,Blinkit,Bangalore,2025-04-30,29.76,31,4,Out of Stock
+451,Cookies,Snacks,Zepto,Mumbai,2025-06-21,24.8,31,20,In Stock
+452,Chocolate,Snacks,Swiggy Instamart,Chennai,2025-03-29,86.0,86,0,In Stock
+453,Tomato,Vegetables,Swiggy Instamart,Chennai,2025-02-14,189.24,228,17,Out of Stock
+454,Onion,Vegetables,Blinkit,Delhi,2025-05-12,74.8,110,32,In Stock
+455,Chocolate,Snacks,Blinkit,Bangalore,2025-02-22,36.49,41,11,Out of Stock
+456,Cheese,Dairy,Swiggy Instamart,Mumbai,2025-05-13,107.97,177,39,Out of Stock
+457,Biscuits,Snacks,Blinkit,Chennai,2025-01-24,24.5,35,30,In Stock
+458,Apple,Fruits,Swiggy Instamart,Mumbai,2025-06-26,14.64,24,39,In Stock
+459,Sugar,Grains,Blinkit,Mumbai,2025-03-07,85.12,112,24,In Stock
+460,Juice,Beverages,Amazon Fresh,Hyderabad,2025-01-01,74.1,95,22,Out of Stock
+461,Juice,Beverages,Zepto,Hyderabad,2025-03-06,62.48,71,12,Out of Stock
+462,Chips,Snacks,Zepto,Chennai,2025-06-24,52.0,80,35,In Stock
+463,Tea,Beverages,Zepto,Mumbai,2025-02-02,77.22,78,1,Out of Stock
+464,Chips,Snacks,Zepto,Hyderabad,2025-01-12,20.77,31,33,Out of Stock
+465,Coffee,Beverages,Amazon Fresh,Mumbai,2025-05-24,62.9,85,26,In Stock
+466,Dal,Grains,BigBasket,Bangalore,2025-04-24,65.45,85,23,In Stock
+467,Mango,Fruits,Zepto,Chennai,2025-02-26,25.08,33,24,In Stock
+468,Apple,Fruits,BigBasket,Hyderabad,2025-01-30,60.83,77,21,In Stock
+469,Juice,Beverages,Swiggy Instamart,Chennai,2025-04-02,49.28,64,23,Out of Stock
+470,Namkeen,Snacks,BigBasket,Mumbai,2025-05-11,104.31,171,39,In Stock
+471,Butter,Dairy,BigBasket,Mumbai,2025-01-23,189.72,279,32,In Stock
+472,Cookies,Snacks,Blinkit,Delhi,2025-03-09,162.36,164,1,Out of Stock
+473,Wheat Flour,Grains,Blinkit,Bangalore,2025-04-16,202.74,218,7,In Stock
+474,Grapes,Fruits,BigBasket,Bangalore,2025-01-21,264.81,273,3,In Stock
+475,Cookies,Snacks,Swiggy Instamart,Delhi,2025-02-22,22.78,34,33,In Stock
+476,Chocolate,Snacks,Amazon Fresh,Chennai,2025-03-04,82.8,138,40,Out of Stock
+477,Cookies,Snacks,Zepto,Delhi,2025-01-12,112.52,116,3,In Stock
+478,Chips,Snacks,Zepto,Chennai,2025-04-13,118.4,148,20,In Stock
+479,Salt,Grains,Amazon Fresh,Delhi,2025-05-26,177.54,269,34,In Stock
+480,Banana,Fruits,BigBasket,Delhi,2025-02-27,176.7,285,38,In Stock
+481,Chips,Snacks,Amazon Fresh,Bangalore,2025-01-23,89.61,103,13,Out of Stock
+482,Tea,Beverages,Swiggy Instamart,Delhi,2025-05-11,196.35,231,15,Out of Stock
+483,Cabbage,Vegetables,Swiggy Instamart,Delhi,2025-05-18,144.48,172,16,Out of Stock
+484,Sugar,Grains,Blinkit,Chennai,2025-01-01,55.08,81,32,In Stock
+485,Cabbage,Vegetables,Amazon Fresh,Chennai,2025-01-12,204.4,280,27,In Stock
+486,Energy Drink,Beverages,Swiggy Instamart,Bangalore,2025-04-11,187.32,223,16,Out of Stock
+487,Soft Drink,Beverages,Blinkit,Chennai,2025-01-30,50.4,72,30,In Stock
+488,Tea,Beverages,Swiggy Instamart,Chennai,2025-03-26,215.26,229,6,In Stock
+489,Carrot,Vegetables,BigBasket,Mumbai,2025-06-11,67.2,70,4,Out of Stock
+490,Tomato,Vegetables,Amazon Fresh,Chennai,2025-01-01,22.44,33,32,In Stock
+491,Dal,Grains,Amazon Fresh,Bangalore,2025-01-13,52.64,56,6,Out of Stock
+492,Tomato,Vegetables,Amazon Fresh,Delhi,2025-01-31,51.12,72,29,Out of Stock
+493,Dal,Grains,BigBasket,Hyderabad,2025-05-15,27.9,31,10,In Stock
+494,Wheat Flour,Grains,BigBasket,Delhi,2025-05-24,145.44,202,28,Out of Stock
+495,Namkeen,Snacks,Swiggy Instamart,Chennai,2025-06-08,193.2,210,8,In Stock
+496,Tea,Beverages,Amazon Fresh,Chennai,2025-05-24,77.44,121,36,In Stock
+497,Cookies,Snacks,Amazon Fresh,Hyderabad,2025-06-01,141.41,179,21,In Stock
+498,Milk,Dairy,Blinkit,Mumbai,2025-05-31,40.81,53,23,Out of Stock
+499,Cabbage,Vegetables,BigBasket,Mumbai,2025-06-05,208.08,289,28,In Stock
+500,Banana,Fruits,BigBasket,Mumbai,2025-03-05,19.14,22,13,Out of Stock
